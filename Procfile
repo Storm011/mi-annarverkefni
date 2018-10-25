@@ -1,1 +1,1 @@
-web: python ./Miðannarverkefnið.py $PORT
+web: python ./mi-annarverkefni.py $PORT
